@@ -1,12 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "quick-start",
       "default": true
     }
   ],
-  "name": "ScatchOrgtest",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "54.0"
+  "sourceApiVersion": "47.0"
 }

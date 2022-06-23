@@ -1,13 +1,5 @@
 {
-  "orgName": "Demo company",
+  "orgName": "Analytics App Scratch Org",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
-  "settings": {
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    }
-  }
+  "features": ["DevelopmentWave"]
 }
